@@ -5,4 +5,4 @@ This was done for a DarwinAI competition: https://eval.ai/web/challenges/challen
 
 "AI AGAINST COVID19 - Screening X-ray images for COVID-19 Infections"
 
-![Example Settings](https://github.com/Mich8952/CovidAI/blob/main/Sample.PNG)
+![Example Settings](https://github.com/Mich8952/CovidAI/blob/main/sample.PNG)
